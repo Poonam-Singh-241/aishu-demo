@@ -1,2 +1,2 @@
 # aishu-demo
-This is my demo class
+This is my demo class.
